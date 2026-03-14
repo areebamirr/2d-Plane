@@ -7,5 +7,4 @@ Arduino-based 2-axis motion control system. Includes custom circuit design (Frit
 
 ## Video Results
 
-<video src="https://drive.google.com/drive/u/0/folders/1O4x8nL0GdQi_nld_aH4Tvs1UfqEGjsC_" controls title="Video Demo"></video>
-
+[![video_Result](https://img.youtube.com)](https://drive.google.com/drive/u/0/folders/1O4x8nL0GdQi_nld_aH4Tvs1UfqEGjsC_)
